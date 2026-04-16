@@ -1,3 +1,20 @@
+----------------------------------------------------------------------------------------------------------------
+- ETS -
+
+Nama Individu  :  Najwa Nisrina
+NPM            :  24082010174
+Pararel        :  4-D
+Kelompok       :  3 (G-Debug | Hustler)
+
+Deskripsi      :  Aplikasi Pencatatan Lari pengguna yang dilengkapi dengan sistem Register, Login, Profile,                     Catat Lari, dan Detail Catat Lari beserta dengan adanya Navigasi antar halaman dan Validasi                     Email.
+Fitur          : - Pengguna dapat mendaftar pada Register sebagai pengguna baru
+                 - Pengguna yang telah Registrasi dapat Login menggunakan Email yang telah terdaftar
+                 - Pengguna dapat membuka halaman Profile untuk melihat data diri yang telah dipenuhi melalui                     halaman Registrasi
+                 - Pengguna dapat menambahkan Pencatatan Lari dan melihatnya historynya pada halaman Beranda
+                 - Pengguna dapat menekan klik pada History Catat Lari untuk pergi ke dalam Detail Catat Lari
+
+----------------------------------------------------------------------------------------------------------------
+
 Nama Kelompok (3) : G-Debug
 Pembagian Pengerjaan Interface :
 1. Halaman welcome dan halaman beranda : Najwa Nisrina            (24082010174)
@@ -17,3 +34,5 @@ Referensi Gambar :  - https://github.com/worldsat/project205/blob/main/drawable-
                     - https://citymagazine.b-cdn.net/wp-content/uploads/2024/06/Trail_collection_men-1-1-jpg-e1717825403772.webp
                     - https://www.freepik.com/premium-ai-image/person-walking-mountain-with-trail-running-shoe-it_45111248.htm
                     - https://github.com/worldsat/project39
+
+----------------------------------------------------------------------------------------------------------------
