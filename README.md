@@ -2,19 +2,23 @@
 
 * ETS -
 
-Nama Individu  :  Najwa Nisrina
-NPM            :  24082010174
-Pararel        :  4-D
-Kelompok       :  3 (G-Debug | Hustler)
+1. Nama Individu  :  Najwa Nisrina
+2. NPM            :  24082010174
+3. Pararel        :  4-D
+4. Kelompok       :  3 (G-Debug | Hustler)
 
-Deskripsi      :  Aplikasi Pencatatan Lari pengguna yang dilengkapi dengan sistem Register, Login, Profile, Catat Lari, 
-								dan Detail Catat Lari beserta dengan adanya Navigasi antar halaman dan Validasi Email.
+A. Deskripsi      :  
 
-Fitur          : 	- Pengguna dapat mendaftar pada Register sebagai pengguna baru
-									- Pengguna yang telah Registrasi dapat Login menggunakan Email yang telah terdaftar
-									- Pengguna dapat membuka halaman Profile untuk melihat data diri yang telah dipenuhi melalui halaman Registrasi
-									- Pengguna dapat menambahkan Pencatatan Lari dan melihatnya historynya pada halaman Beranda
-									- Pengguna dapat menekan klik pada History Catat Lari untuk pergi ke dalam Detail Catat Lari
+Aplikasi Pencatatan Lari pengguna yang dilengkapi dengan sistem Register, Login, Profile, Catat Lari, 
+dan Detail Catat Lari beserta dengan adanya Navigasi antar halaman dan Validasi Email.
+
+B. Fitur          : 	
+
+- Pengguna dapat mendaftar pada Register sebagai pengguna baru
+- Pengguna yang telah Registrasi dapat Login menggunakan Email yang telah terdaftar
+- Pengguna dapat membuka halaman Profile untuk melihat data diri yang telah dipenuhi melalui halaman Registrasi
+- Pengguna dapat menambahkan Pencatatan Lari dan melihatnya historynya pada halaman Beranda
+- Pengguna dapat menekan klik pada History Catat Lari untuk pergi ke dalam Detail Catat Lari
 
 \---
 
