@@ -7,6 +7,7 @@ Pararel        :  4-D
 Kelompok       :  3 (G-Debug | Hustler)
 
 Deskripsi      :  Aplikasi Pencatatan Lari pengguna yang dilengkapi dengan sistem Register, Login, Profile,                     Catat Lari, dan Detail Catat Lari beserta dengan adanya Navigasi antar halaman dan Validasi                     Email.
+
 Fitur          : - Pengguna dapat mendaftar pada Register sebagai pengguna baru
                  - Pengguna yang telah Registrasi dapat Login menggunakan Email yang telah terdaftar
                  - Pengguna dapat membuka halaman Profile untuk melihat data diri yang telah dipenuhi melalui                     halaman Registrasi
